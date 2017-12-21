@@ -1,4 +1,5 @@
 # RxMIIScrollableViews
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/LICENSE)
 
 RxSwift Extension for [MIIScrollableViews](https://github.com/mii-chan/MIIScrollableViews)
@@ -18,6 +19,10 @@ RxSwift Extension for [MIIScrollableViews](https://github.com/mii-chan/MIIScroll
  - [MIIScrollableViews(latest)](https://github.com/mii-chan/MIIScrollableViews)
 
 ## Installation
+### Carthage
+```
+github "mii-chan/RxMIIScrollableViews"
+```
 
 ## Usage
 ### Reactive wrappers
