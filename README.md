@@ -16,9 +16,9 @@ RxSwift Extension for [MIIScrollableViews](https://github.com/mii-chan/MIIScroll
 * Xcode 9.0
 * Swift 4
 
-* This library depends on the following libraries.
- - [RxSwift(4.0+)](https://github.com/ReactiveX/RxSwift)
- - [MIIScrollableViews(latest)](https://github.com/mii-chan/MIIScrollableViews)
+### This library depends on the following libraries.
+* [RxSwift(4.0+)](https://github.com/ReactiveX/RxSwift)
+* [MIIScrollableViews(latest)](https://github.com/mii-chan/MIIScrollableViews)
 
 ## Installation
 ### Carthage
