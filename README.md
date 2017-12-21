@@ -4,6 +4,8 @@
 
 RxSwift Extension for [MIIScrollableViews](https://github.com/mii-chan/MIIScrollableViews)
 
+![RxMIIScrollableViews Demo](https://github.com/mii-chan/RxMIIScrollableViews/blob/media/demo.gif)
+
 ## About
 `RxMIIScrollableViews` is a RxSwift Extension for [MIIScrollableViews](https://github.com/mii-chan/MIIScrollableViews)
 
