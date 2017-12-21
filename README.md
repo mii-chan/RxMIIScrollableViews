@@ -9,7 +9,7 @@ RxSwift Extension for [MIIScrollableViews](https://github.com/mii-chan/MIIScroll
 ## About
 `RxMIIScrollableViews` is a RxSwift Extension for [MIIScrollableViews](https://github.com/mii-chan/MIIScrollableViews)
 
-`MIIScrollableViews` makes it much easier to manage UIViews in UIScrollView. Also supports various types of gestures (Tap, Double Tap, Pan, Pinch and Long Press).
+`MIIScrollableViews` makes it much easier to manage UIViews in horizontal UIScrollView. Also supports various types of gestures (Tap, Double Tap, Pan, Pinch and Long Press).
 
 ## Requirements
 * iOS 8.0+
